@@ -1,15 +1,18 @@
+main {
+    min-height: calc(100vh- 56 - 120px);
+}
 footer{
+    position: fixed;
+    bottom: 1;
     border-top-color: #6ac5c5;
     border-top-style: solid;
     border-top-width: 8px;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     background-color: gray;
     padding-top: 20px;
-    border-bottom-color: gray;
-    border-bottom: solid;
-    padding-bottom: 14%;
+    padding-bottom: 120px;
+    min-width: 100%;
+    min-height: auto;
 }
 
 h1{ 
@@ -19,5 +22,9 @@ h1{
     padding-bottom: 1%;
 }
 .navbar-brand{
-    padding-right: 80%;
+   color: white;
+   background-color: #6ac5c5;
+}
+.navbar-nav {
+    padding-left: 85%;
 }
