@@ -19,3 +19,7 @@ footer{
     border-bottom: solid;
     padding-bottom: 100%;
 }
+
+.navbar-brand{
+    padding-right: 80%;
+}
