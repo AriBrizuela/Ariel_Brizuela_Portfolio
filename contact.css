@@ -17,6 +17,7 @@ footer{
     padding-bottom: 120px;
     min-width: 100%;
     min-height: auto;
+    bottom: 0pt;
 }
 .btn{
     padding-bottom: 1%;
