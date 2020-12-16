@@ -2,20 +2,22 @@
 
 ## Portfolio Guidelines
 
-    For this project I was tasked with creating a working portfolio site that would have a navbar that would redirect you towards the "about me", "portfolio", or "contact" page. Within those pages I was to make it seem exactly as the images in the asset/images folder that were provided. 
+For this project I was tasked with creating a working portfolio site that would have a navbar that would redirect you towards the "about me", "portfolio", or "contact" page. Within those pages I was to make it seem exactly as the images in the asset/images folder that were provided.
 
 ### Index page
+   For the index page I just included the navbar options that would redirect you towards the other pages. Then I filled the container with rows and columns to place everything correctly. 
 
-    For the index page I just included the navbar options that would redirect you towards the other pages. Then I filled the container with rows and columns to place everything correctly. 
 ### Contact
 
-    On this one I created a form-label to include the users name, email, message, and a submit button. 
+On this one I created a form-label to include the users name, email, message, and a submit button. 
+    
 ### Portfolio
 
-    For the portfolio I had to include images into the page in a nice neat row.
+For the portfolio I had to include images into the page in a nice neat row.
 
 #### Footer
-    The footer gave me A LOT OF TROUBLE! Getting it to remain on the bottom without making the page scroll down was a big challenge for me. I do not know how that happened but it just did not want to stay so I had to find a way to make it stick to the bottom permanently. 
+The footer gave me A LOT OF TROUBLE! Getting it to remain on the bottom without making the page scroll down was a big challenge for me. I do not know how that happened but it just did not want to stay so I had to find a way to make it stick to the bottom permanently. 
+
 
 ##### Bootstrap 
     I used many of bootstraps own rules and classes.
