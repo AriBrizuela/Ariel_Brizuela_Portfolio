@@ -27,5 +27,8 @@ h1{
    background-color: #6ac5c5;
 }
 .navbar-nav {
-    padding-left: 85%;
+    padding-left: 98%;
+}
+.container-fluid {
+    width: 1320px;
 }

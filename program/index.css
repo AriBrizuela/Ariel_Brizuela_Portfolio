@@ -21,7 +21,11 @@ h1{
 .navbar-brand{
     color: white;
     background-color: #6ac5c5;
+    position: center;
 }
 .navbar-nav {
-    padding-left: 85%;
+    padding-left: 98%;
+}
+.container-fluid {
+        width: 1320px;
 }
